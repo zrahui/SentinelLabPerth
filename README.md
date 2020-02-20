@@ -11,3 +11,4 @@ Download the lab guide (either PDF or Word) to get started.
 * [KQL Cheat Sheet](https://github.com/marcusbakker/KQL/blob/master/kql_cheat_sheet_v01.pdf)
 * [Data Explorer Playpen](https://dataexplorer.azure.com/clusters/help/databases/Samples)
 * [Connectors Reference for Logic App](https://docs.microsoft.com/en-au/connectors/)
+* [https://aka.ms/LAdemo](https://aka.ms/LAdemo)
